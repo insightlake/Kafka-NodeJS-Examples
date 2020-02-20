@@ -1,7 +1,6 @@
-
 # Kafka-NodeJS-Examples
 Node JS Examples
-<img style="width:100%;" src="images/kafka-nodeJs.jpg">
+<img style="width:100%;" src="images/kafka-nodeJS.png">
 ### Prerequisites
 - Have nodeJs and npm installed.
 - To get **binary** distribution of Kafka from [here](https://kafka.apache.org/downloads) .
