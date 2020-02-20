@@ -1,4 +1,4 @@
-<img style="width:100%;" src="images/kafka-nodeJs.png">
+<img style="width:100%;" src="images/kafka-nodeJs.jpg">
 # Kafka-NodeJS-Examples
 Node JS Examples
 
